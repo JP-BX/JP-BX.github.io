@@ -1,4 +1,3 @@
-# Jumaane Pond's Active Directory Security Monitoring Lab
 
 **Active Directory • Splunk • Sysmon • Kali Linux • Atomic Red Team**
 
