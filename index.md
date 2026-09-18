@@ -1,8 +1,14 @@
----
-layout: default
----
+# Jumaane Pond's Active Directory Security Monitoring Lab
 
-Hi, I'm Jumaane Pond, and in this personal project, I built an Active Directory home lab incorporating Splunk, Kali Linux, Sysmon, and Atomic Red Team. The setup simulates a real-world environment where attacks occur, and events are monitored through a SIEM.
+**Active Directory • Splunk • Sysmon • Kali Linux • Atomic Red Team**
+
+## Project Overview
+
+Built an Active Directory security lab to simulate credential-based attacks, collect Windows security telemetry, and investigate malicious authentication activity using Splunk and Sysmon.
+
+**Environment:** Windows Server • Windows 10 • Kali Linux • Splunk Enterprise • Sysmon • Splunk Universal Forwarder • Atomic Red Team • Oracle VirtualBox
+
+**Security Skills:** Active Directory • SIEM Monitoring • Log Analysis • Threat Detection • Windows Event Logs • Attack Simulation • Incident Investigation
 
 
 
