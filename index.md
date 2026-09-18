@@ -1,4 +1,3 @@
-
 **Active Directory • Splunk • Sysmon • Kali Linux • Atomic Red Team**
 
 ## Project Overview
@@ -15,7 +14,7 @@ Built an Active Directory security lab to simulate credential-based attacks, col
 
 
 
-# Lab Diagram
+# Lab Architecture
 
 ![AD Project drawio](https://github.com/user-attachments/assets/7f01f634-2d8e-44f5-a0c4-7692bd9f230f)
 
